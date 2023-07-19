@@ -6,7 +6,7 @@
 https://www.tindie.com/products/31112/  
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
-https://youtu.be/Q6jLFrrscGw
+https://youtu.be/Q6jLFrrscGw?t=40
 
 ## DESCRIPTION:  
 This BadgeLife SAO Kit is a simple soldering kit and lets you show off your enjoyment of #BadgeLife.  Please watch the YouTube video for a tutorial on how to assemble.  Make sure to insert this SAO onto your badge in the correct orientation.  Different badges may have different orientations of SAO headers.

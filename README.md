@@ -1,5 +1,7 @@
 # BadgeLife SAO
 
+![alt text](https://raw.githubusercontent.com/MakeItHackin/BadgeLifeSAO/main/images/badgelifeSAO.jpg)
+
 ## PURCHASE A KIT:
 https://www.tindie.com/products/31112/  
 
